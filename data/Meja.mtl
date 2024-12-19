@@ -3,9 +3,9 @@
 
 newmtl Material
 Ns 300.000000
-Ka 0.72 0.42 0.20  # Warna ambient kayu
-Kd 0.72 0.42 0.20  # Warna diffuse kayu
-Ks 0.3 0.3 0.3     # Warna specular untuk efek glossy
+Ka 0.72 0.42 0.20  
+Kd 0.72 0.42 0.20  
+Ks 0.3 0.3 0.3     
 Ke 0.000000 0.000000 0.000000
 Ni 1.450000
 d 1.000000
